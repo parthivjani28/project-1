@@ -1,0 +1,191 @@
+.navbar {
+    background-color: #e53652;
+    color: white;
+}
+
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.navbar-toggler-icon {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.btn {
+    background-color: #fff;
+    color: #e53652;
+}
+
+.details {
+    background-image: url(jackson-so-_t-l5FFH8VA-unsplash.jpg);
+    background-size: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    /* position: absolute; */
+    top: 20%;
+    color: white;
+    padding: 30px;
+}
+
+.my-img {
+    border-radius: 20px;
+}
+
+.name {
+    font-size: 40px;
+    color: #e53652;
+}
+
+.zgc {
+    color: #e53652;
+}
+
+.zgc:hover {
+    color: #e53652;
+    border-bottom: 2px solid #fff;
+    text-decoration: none;
+}
+
+.my-img:hover {
+    border-radius: 100px;
+    border: 5px solid white;
+}
+
+.bold {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.aboutme {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+
+/* Section-2 */
+
+.section-2 {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.row {
+    background-image: url(avi-richards-Z3ownETsdNQ-unsplash.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* overflow-x: hidden; */
+}
+
+.about-title {
+    color: #e53652;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+    padding: 40px 0px;
+}
+
+.about-description {
+    padding: 40px 10px;
+    font-size: 30px;
+    color: #fff;
+    font-weight: 700;
+}
+
+
+/* Projects */
+
+.project {
+    background-image: url(andrew-neel-cckf4TsHAuw-unsplash.jpg);
+    padding: 100px;
+}
+
+.project-title {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+    padding: 40px 0px;
+}
+
+.project-links {
+    font-size: 30px;
+    color: black;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.project-links:hover {
+    text-decoration: none;
+    color: #e53652;
+    border-bottom: 2px solid #e53652;
+}
+
+.project-descripton {
+    font-size: 20px;
+    font-weight: 900;
+    color: #e53652;
+}
+
+
+/* Contact */
+
+.contact-row {
+    padding: 100px;
+    background-image: none;
+}
+
+.form_row {
+    background-image: none;
+}
+
+.btn:hover {
+    background-color: #e53652;
+    color: #fff;
+    border: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #e53652 !important;
+    color: #fff;
+}
+
+
+/* Footer */
+
+.footer {
+    background-color: #e53652;
+}
+
+.footer-rows {
+    padding: 100px;
+    background-color: #e53652;
+    background-image: none;
+    color: #fff;
+}
+
+h3 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.footer-links {
+    color: black;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.footer-links:hover {
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 2px solid #fff;
+}
